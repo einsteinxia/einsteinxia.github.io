@@ -1,7 +1,7 @@
 main:
 
   - title: "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"
-    authors: "<strong>Qianxin Xia</strong>, Jiawei Du, Yuhan Zhang, Xin Zhang, Xuewan He, Wenbo Jiang, Jielei Wang, Tao Luo, Guoming Lu"
+    authors: "<strong>Qianxin Xia</strong>, Jiawei Du*, Yuhan Zhang, Xin Zhang, Xuewan He, Wenbo Jiang, Jielei Wang, Tao Luo, Guoming Lu*"
     conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2602.05391
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/sfm.png
 
   - title: "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery"
-    authors: "<strong>Qianxin Xia</strong>, Zhiyong Shu, Wenbo Jiang, Jiawei Du, Jielei Wang, Guoming Lu"
+    authors: "<strong>Qianxin Xia*</strong>, Zhiyong Shu, Wenbo Jiang, Jiawei Du, Jielei Wang, Guoming Lu*"
     conference_short: ICML
     conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2605.12649
@@ -17,7 +17,7 @@ main:
     image: ./assets/img/diver.png
 
   - title: "EDITS: Enhancing Dataset Distillation with Implicit Textual Semantics"
-    authors: "<strong>Qianxin Xia</strong>, Jiawei Du, Guoming Lu, Zhiyong Shu, Jielei Wang"
+    authors: "<strong>Qianxin Xia</strong>, Jiawei Du, Guoming Lu, Zhiyong Shu, Jielei Wang*"
     conference_short: ICASSP
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2509.13858
@@ -25,8 +25,17 @@ main:
     image: ./assets/img/edits.png
 
   - title: "PEAK: Pure Logit Distillation via Multi-granularity Knowledge Transfer"
-    authors: "<strong>Qianxin Xia</strong>, Jielei Wang, Xuewan He, Zihan Cheng, Heng Yin, Ke Qin, Guoming Lu"
+    authors: "<strong>Qianxin Xia</strong>, Jielei Wang, Xuewan He, Zihan Cheng, Heng Yin, Ke Qin, Guoming Lu*"
     conference_short: TST
     conference: "Tsinghua Science and Technology <strong>(TST)</strong>, 2025."
     pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010008
     image: ./assets/img/peak.png
+
+    
+  - title: "Research on Target Capturing of UAV Circumnavigation Formation Based on Deep Reinforcement Learning"
+    authors: "<strong>Qianxin Xia</strong>, Peng Li, Xufeng Shi, Qian Li, Weijun Cai*"
+    conference_short: ICAUS
+    conference: "International Conference on Autonomous Unmanned Systems <strong>(ICAUS)</strong>, 2022."
+    pdf: https://link.springer.com/chapter/10.1007/978-981-99-0479-2_346
+    image: ./assets/img/icaus.png
+    
