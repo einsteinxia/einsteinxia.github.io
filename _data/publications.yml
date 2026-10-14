@@ -27,6 +27,6 @@ main:
   - title: "PEAK: Pure Logit Distillation via Multi-granularity Knowledge Transfer"
     authors: "<strong>Qianxin Xia</strong>, Jielei Wang, Xuewan He, Zihan Cheng, Heng Yin, Ke Qin, Guoming Lu"
     conference_short: TST
-    conference: "Tsinghua Science and Technology <strong>(TST)</strong>, 2026."
+    conference: "Tsinghua Science and Technology <strong>(TST)</strong>, 2025."
     pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010008
     image: ./assets/img/peak.png
