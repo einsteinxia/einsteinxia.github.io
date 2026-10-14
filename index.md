@@ -8,6 +8,10 @@ I am a fourth-year Ph.D. student at the University of Electronic Science and Tec
 
 Prior to my doctoral studies, I received my bachelor's degree from Nanjing University of Science and Technology (NJUST) in 2019 and my master's degree from the China Ship Research and Development Academy (CSRDA) in 2022. I also worked as an Assistant Engineer at the 705 Research Institute of China State Shipbuilding Corporation (CSSC) for one year (2022-2023), during which the algorithms I developed were successfully deployed on aircraft carriers and naval vessels. I am deeply honored to have made a modest contribution to China's national defense.
 
+<strong style="color: #E53935;">
+  I am currently exploring academic and industry opportunities. Please feel free to reach out if you are interested in my work or background.
+</strong>
+
 
 ## Research Interests
 
