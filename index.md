@@ -34,8 +34,11 @@ Outside of research, I enjoy scuba diving 🤿 and hold both Open Water (OW) and
 
 
 ## Visitors
+
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://flagcounter.me/details/kJP"><img src="https://flagcounter.me/kJP" alt="Flag Counter"></a>
+  <a href="https://flagcounter.me/details/kJP">
+    <img src="https://flagcounter.me/kJP" alt="Flag Counter">
+  </a>
 </div>
 
 
