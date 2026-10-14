@@ -3,7 +3,7 @@ main:
   - title: "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"
     authors: "<strong>Qianxin Xia</strong>, Jiawei Du*, Yuhan Zhang, Xin Zhang, Xuewan He, Wenbo Jiang, Jielei Wang, Tao Luo, Guoming Lu*"
     conference_short: NeurIPS
-    conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
+    conference: "Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2602.05391
     code: https://github.com/einsteinxia/SFM
     image: ./assets/img/sfm.png
