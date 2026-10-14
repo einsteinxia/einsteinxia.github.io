@@ -32,8 +32,7 @@ Outside of research, I enjoy scuba diving 🤿 and hold both Open Water (OW) and
 
 {% include_relative _includes/services.md %}
 
-
-
+<div style="height: 30px;"></div>
 
 ## Visitors
 
