@@ -6,7 +6,7 @@ main:
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2602.05391
     code: https://github.com/einsteinxia/SFM
-    image: ./assets/img/sfm.jpg
+    image: ./assets/img/sfm.png
 
   - title: "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery"
     authors: "<strong>Qianxin Xia</strong>, Zhiyong Shu, Wenbo Jiang, Jiawei Du, Jielei Wang, Guoming Lu"
@@ -22,7 +22,7 @@ main:
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
     pdf: https://arxiv.org/pdf/2509.13858
     code: https://github.com/einsteinxia/EDITS
-    image: ./assets/img/edits.jpg
+    image: ./assets/img/edits.png
 
   - title: "PEAK: Pure Logit Distillation via Multi-granularity Knowledge Transfer"
     authors: "<strong>Qianxin Xia</strong>, Jielei Wang, Xuewan He, Zihan Cheng, Heng Yin, Ke Qin, Guoming Lu"
