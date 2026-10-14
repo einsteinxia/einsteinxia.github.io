@@ -14,7 +14,6 @@ Prior to my doctoral studies, I received my bachelor's degree from Nanjing Unive
 - **Data-Centric AI、 Model Compression**
 - **Reinforcement Learning、 Embodied AI**
 
-  
 ## News
 - **[2026.09]** 🎉 Our paper "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching" about Self-Supervised learning is accepted to NeurIPS 2026.
 - **[2026.04]** 🎉 Our paper "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery" about raw data-free dataset distillation is accepted to ICML 2026.
@@ -23,9 +22,9 @@ Prior to my doctoral studies, I received my bachelor's degree from Nanjing Unive
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
-
 ## Beyond Research
 Outside of research, I enjoy scuba diving 🤿 and hold both Open Water (OW) and Advanced Open Water (AOW) certifications. I'm also looking forward to trying freediving 🫧. Beyond diving, I'm passionate about motorcycles 🏍️  and basketball 
 🏀.
+
+{% include_relative _includes/services.md %}
+
