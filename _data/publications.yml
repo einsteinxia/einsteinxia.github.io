@@ -1,19 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/teaser_example_2.png
-    notes: Poster
+  - title: "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching"
+    authors: "<strong>Qianxin Xia</strong>, Jiawei Du, Yuhan Zhang, Xin Zhang, Xuewan He, Wenbo Jiang, Jielei Wang, Tao Luo, Guoming Lu"
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2602.05391
+    code: https://github.com/einsteinxia/SFM
+    image: ./assets/img/sfm.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    notes: Poster
-    image: ./assets/img/teaser_example.png
+  - title: "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery"
+    authors: "<strong>Qianxin Xia</strong>, Zhiyong Shu, Wenbo Jiang, Jiawei Du, Jielei Wang, Guoming Lu"
+    conference_short: ICML
+    conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2605.12649
+    code: https://github.com/einsteinxia/DIVER
+    image: ./assets/img/diver.png
+
+  - title: "EDITS: Enhancing Dataset Distillation with Implicit Textual Semantics"
+    authors: "<strong>Qianxin Xia</strong>, Jiawei Du, Guoming Lu, Zhiyong Shu, Jielei Wang"
+    conference_short: ICASSP
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2509.13858
+    code: https://github.com/einsteinxia/EDITS
+    image: ./assets/img/edits.png
+
+  - title: "PEAK: Pure Logit Distillation via Multi-granularity Knowledge Transfer"
+    authors: "<strong>Qianxin Xia</strong>, Jielei Wang, Xuewan He, Zihan Cheng, Heng Yin, Ke Qin, Guoming Lu"
+    conference_short: TST
+    conference: "Tsinghua Science and Technology <strong>(TST)</strong>, 2026."
+    pdf: https://www.sciopen.com/article/10.26599/TST.2026.9010008
+    image: ./assets/img/peak.png
