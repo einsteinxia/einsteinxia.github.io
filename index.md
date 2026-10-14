@@ -16,11 +16,10 @@ Prior to my doctoral studies, I received my bachelor's degree from Nanjing Unive
 
   
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2026.09]** 🎉 Our paper "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching" about Self-Supervised learning is accepted to NeurIPS 2026.
+- **[2026.04]** 🎉 Our paper "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery" about raw data-free dataset distillation is accepted to ICML 2026.
+- **[2025.12]** 🎉 Our paper "EDITS: Enhancing Dataset Distillation with Implicit Textual Semantics" is accepted to ICASSP 2026.
+- **[2025.07]** 🎉 Our paper "PEAK: Pure Logit Distillation via Multi-granularity Knowledge Transfer" about knowledge distillation is accepted to Tsinghua Science and Technology (TST).
 
 {% include_relative _includes/publications.md %}
 
