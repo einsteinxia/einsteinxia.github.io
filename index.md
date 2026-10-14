@@ -12,9 +12,10 @@ Prior to my doctoral studies, I received my bachelor's degree from Nanjing Unive
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data-Centric AI、 Model Compression**
+- **Reinforcement Learning、 Embodied AI**
 
+  
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
