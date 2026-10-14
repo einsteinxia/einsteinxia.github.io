@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Electronic Science and Technology of China (UESTC), advised by [Prof. Guoming Lu](https://www.scse.uestc.edu.cn/info/1081/11260.htm). In addition to my doctoral studies, I am currently a research intern at the Institute of Advanced Intelligence and Computing (IAIC), Agency for Science, Technology and Research (A*STAR), Singapore, under the supervision of [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en) .
+I am a Ph.D. student at the University of Electronic Science and Technology of China (UESTC), advised by [Prof. Guoming Lu](https://icct.uestc.edu.cn/info/1065/1297.htm). In addition to my doctoral studies, I am currently a research intern at the Institute of Advanced Intelligence and Computing (IAIC), Agency for Science, Technology and Research (A*STAR), Singapore, under the supervision of [Dr. Jiawei Du](https://scholar.google.com/citations?user=WrJKEzEAAAAJ&hl=en) .
 
 Prior to my doctoral studies, I received my bachelor's degree from Nanjing University of Science and Technology (NJUST) and my master's degree from the China Ship Research and Development Academy (CSRDA). I also worked as an Assistant Engineer at the 705 Research Institute of China State Shipbuilding Corporation (CSSC) for one year, during which the algorithms I developed were successfully deployed on aircraft carriers and naval vessels. I am deeply honored to have made a modest contribution to China's national defense.
 
