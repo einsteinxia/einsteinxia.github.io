@@ -33,7 +33,7 @@ main:
 
     
   - title: "Research on Target Capturing of UAV Circumnavigation Formation Based on Deep Reinforcement Learning"
-    authors: "<strong>Qianxin Xia</strong>, Peng Li, Xufeng Shi, Qian Li, Weijun Cai*"
+    authors: "<strong>Qianxin Xia*</strong>, Peng Li, Xufeng Shi, Qian Li, Weijun Cai"
     conference_short: ICAUS
     conference: "International Conference on Autonomous Unmanned Systems <strong>(ICAUS)</strong>, 2022."
     pdf: https://link.springer.com/chapter/10.1007/978-981-99-0479-2_346
