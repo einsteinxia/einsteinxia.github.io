@@ -33,28 +33,14 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+
   </head>
   <body>
     <div class="wrapper">
-      <header style="position: fixed !important; top: 0 !important; left: 0 !important; width: 232px !important; z-index: 9999 !important; background: white !important;">
+      <header>
         
         {% if site.avatar %}
-        <div style="text-align: center; margin-bottom: 20px;">
-          <img
-            src="{{ site.avatar }}"
-            alt="Profile Photo"
-            style="
-              width: 140px;
-              height: 140px;
-              max-width: none;
-              object-fit: cover;
-              border-radius: 0;
-              padding: 0;
-              margin: 0;
-              display: inline-block;
-            "
-          >
-        </div>
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
