@@ -25,4 +25,7 @@ Prior to my doctoral studies, I received my bachelor's degree from Nanjing Unive
 
 {% include_relative _includes/services.md %}
 
-## Research Interests
+
+## Beyond Research
+Outside of research, I enjoy scuba diving 🤿 and hold both Open Water (OW) and Advanced Open Water (AOW) certifications. I'm also looking forward to trying freediving 🫧. Beyond diving, I'm passionate about motorcycles 🏍️  and basketball 
+🏀.
