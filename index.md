@@ -40,7 +40,7 @@ Outside of research, I enjoy scuba diving 🤿 and hold both Open Water (OW) and
 
 <script type="text/javascript"
         id="mapmyvisitors"
-        src="https://mapmyvisitors.com/map.js?d=lxfrhEzBpfaJt2Teufi_vhcjWVPv3G7ZUldptwfJkqc&cl=ffffff&w=a">
+        src="https://mapmyvisitors.com/map.js?d=lxfrhEzBpfaJt2Teufi_vhcjWVPv3G7ZUldptwfJkqc&cl=ffffff&w=250">
 </script>
 
 </div>
